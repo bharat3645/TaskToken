@@ -57,8 +57,8 @@ The front end is built using React and allows users to interact with the smart c
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/dhanush-adi/Web3-gig-platform.git
-   cd Web3-gig-platform
+   git clone https://github.com/dhanush-adi/TaskToken.git
+   cd TaskToken
 2. Install dependencies:
 
    ```sh
