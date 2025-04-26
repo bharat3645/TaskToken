@@ -57,7 +57,7 @@ The front end is built using React and allows users to interact with the smart c
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/dhanush-adi/TaskToken.git
+   git clone https://github.com/bharat3645/TaskToken.git
    cd TaskToken
 2. Install dependencies:
 
